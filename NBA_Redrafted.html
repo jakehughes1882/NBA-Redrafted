@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)https://peldroed.io/NBA_Redrafted.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	
+	
+	
+</head><body><h1 style="text-align: center;">
+	peldroed.io
+</h1>
+
+<h3 style="text-align: center;">
+	pehl-droid-dot-eye-oh
+</h3>
+
+<h2 style="text-align: center;
+			  font-size: 50px;">
+    10 Years of the NBA Redrafted
+</h2>
+	
+
+    <div style="width:40%; margin:0 auto;">
+	    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+		<p style="font-family: 'Rubik';
+			        font-size: 16px;
+				    color: #3B4252;">
+			As a recent newcomer to the NBA, one of the aspects I enjoy the most is the draft. 
+			For those unaware or that are also recent newcomers, the bulk of NBA players join the league through an annual draft,
+			where 60 players are drafted into league out of college, or leagues outside of the USA, usually from Europe. 
+			As someone who mostly follows football, scouting talent and signing players is something I think about a lot
+			in that regard as well. Player performance isn't an absolute, and playing well at a certain club, or in a certain
+			league doesn't necessarily translate to upholding the same performance elsewhere. Being able to find a diamond in the rough,
+			for a cheap price and watching them flourish is something I've always found very satisfying when playing games such 
+			as football manager. Finding an obscure youngster in the Bulgarian first division and watching them make the jump 
+			to the premier league is rare, but is super satisfying.
+			<br>
+			<br>
+			Likewise in the NBA, playing well at college level, doesn't directly translate to playing well in the NBA. 
+			Many factors effect how a player adapts to a new background, such as the mentality required to perform in such 
+			a high pressure environment, not attaining too many injuries, or simply having the right team mates to match your game. 
+			<br>
+		</p>	
+		<img src="./NBA_Redrafted_backup_files/neonbrand-UegcSdRtmlg-unsplash.jpg" alt="Simply Easy Learning" width="600" height="320">
+	<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@neonbrand?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from NeONBRAND"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">NeONBRAND</span></a>
+					<p style="font-family: 'Rubik';
+			        font-size: 16px;
+				    color: #3B4252;">
+			<br>
+			A few years ago, I read <a href="https://pudding.cool/2017/03/redraft/">this</a> article on the pudding, which
+			has since inspired me to create a website of my own, and to perform similar analyses. 
+			Many of the visualisations in this article are borrowed or inspired greatly by the visualisations on the aforementioned article.
+			<br>
+			<br>
+			Below is a grid of every player drafted into the NBA from 2008 to 2018. The columns are the years drafted, staring with 2008
+			on the left, through to 2018 on the right. Vertically, the place where a player was drafted is displayed, the top row being the #1
+			draft picks, and the bottom row being the 60th pick for their respective years. The cells of the grid are coloured according to their
+			performances in the NBA using a statistic known as <a href="https://www.basketball-reference.com/about/bpm.html">VORP</a> which takes into account a players
+			general output in defensive and offensive contributions. With green representing good, and red representing bad. 
+			<br>
+			VORP is based off of stats such as points scored, but as a whole, represents an arbitrary number.
+			VORP generally correlates with what is accepted as a performer, with the top players in VORP also being some of the top performers in
+			basketball history. If NBA teams were perfect at selecting draft picks, the grid would just show a steady gradient of green down to red every year.
+			However, it's fairly clear this is not the case, generally the brighter green cells are at the top, and brighter red cells are towards the bottom. 
+			Some players stand out as being out of place, such as the 60th pick in 2011, Isaiah Thomas having the 6th best VORP for his draft year. 
+		</p>	
+	</div>	
+
+
+<div>
+	
+		<!-- Load d3.js -->
+		<script src="./NBA_Redrafted_backup_files/d3.v4.js"></script>
+		<!-- Create a div where the graph will take place -->
+		<div id="my_dataviz" style="
+				   text-align: center;">
+			<script id="gridchart" src="NBA_Grid.js"></script>
+	
+</div>
+
+
+
+
+
+    <div style="width:40%; margin:0 auto;">
+		<p style="font-family: &#39;Rubik&#39;;
+			        font-size: 16px;
+				    color: #3B4252;">
+		One thing I'm curious about from exploring the data above, is how well teams identify talent, and whether some teams are poor in this aspect.
+		On the scatter chart below, each data point represents a player drafted into the NBA in the same time period from above.
+		The x-axis signifies the where the player was drafted as an overall picks (the left being 1st, right being 60th), and the y-axis signifying
+		the redrafted position according to their VORP in the NBA thus far. 
+		<br>
+		Once again, if teams were perfect in identifying draft talent, we would
+		just see a perfect straight line from bottom left, diagonally drawn to the top right. But this isn't the case, and players in the very top
+		left represent players that have drastically outperformed their expected performances, and players in the bottom right and drastically flopped.
+		As you scroll down the page, the scatter chart will evolve with commentary on the right describing the evolution.
+		</p>	
+	</div>	
+
+
+
+
+
+
+
+<div>
+ 
+	<link rel="stylesheet" type="text/css" href="scatter_style.css">
+
+<div class="wrapper">
+<div class="row" <div="" id="scatter" style="
+		 width: 66%;">
+
+</div>
+
+<div class="placeholderText" style="
+		 width: 33%;">
+	
+	<p id="P1" style="font-family: 'Rubik';
+			        font-size: 16px;
+				    color: #3B4252;"> 
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>Every drafted player from 2008 to 2018 
+		<br>
+		<br>As mentioned above, each data point on this chart represents the players drafted to the NBA 
+		from 2008 to 2018.
+		<br>
+	</p>
+	
+	
+	<p id="P2" style="font-family: 'Rubik';
+			        font-size: 16px;
+				    color: #3B4252;"> 
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>First Round Picks 
+		<br>
+		<br>
+		For our analysis, let's only consider first round players from the draft.
+		Much more scouting and research goes into these players, so this is a good measure
+		of how highly teams hold these players in regard and expect for them to perform.
+		<br>
+	</p>
+		
+	<p id="P3" style="font-family: 'Rubik';
+			        font-size: 16px;
+				    color: #3B4252;"> 
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>Draft Pick By Team 
+		<br>
+		<br>
+		We can group the players by the NBA franchise that drafted them,
+		and plot them by the average overall pick of that franchise
+		and by the average overall average rerank of the franchises drafted players,
+		and we can size the bubble according to the number of first round drafted players.
+		We can now see which franchises have a good system for recruiting or flipping talent.
+		One immediate trend is that the larger data points sit around the middle of the chart, meaning with larger numbers the effects
+		of picking players that underperform, or over perform generally average out.
+		<br>
+		Not too many teams stand out, and are fairly bunched to the centre. A team I would pick out
+		is the Sacramento Kings, in the mid or top left, who have a poor track record of picking draft players. This 
+		might go some way in explaining their absence from finals positions in the past.
+		Likewise, the Brooklyn Nets and San Antonio Spurs have a good track record of picking outsiders and nurturing their talents, such as Kawhi Leonard.
+		<br>
+	</p>
+	
+	<p id="P4" style="font-family: 'Rubik';
+			        font-size: 16px;
+				    color: #3B4252;"> 	
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>Let's reset the aggregation back to each data point representing a player. 
+	</p>
+	
+	<p id="P5" style="font-family: &#39;Rubik&#39;;
+			        font-size: 16px;
+				    color: #3B4252;"> 	
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>And now we can perform a similar aggregation but this time by college.
+		<br>
+		Similar to how we grouped players by the teams that drafted them, we can also group them according to where they came from.
+		Again, the larger data points lie along the line from bottom left to top right. But, low numbers aside, we see players from
+		colleges such as Wichita, Wyoming, Texas A&amp;M, IUPUI and New Mexico State are underestimated, but players from Kansas State,
+		Alabama, BYU, West Virginia, and UNLV are overrated. 
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+
+		
+	</p>
+</div>
+</div>
+</div>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="NBA_scatter.js"></script>	
+
+
+
+
+    <div style="width:40%; margin:0 auto;
+	     padding-top: 100px;
+		 padding-bottom: 50px;">
+		<p style="font-family: 'Rubik';
+			        font-size: 16px;
+				    color: #3B4252;">
+		Lastly, we can look at which players have outperformed their draft pick (steals - from the perspective of the draft team) and those that 
+		have underperformed (busts - from the perspective of both the player and the draft team). 
+		<br>
+		To measure this, we really want a metric that takes into
+		account weighting for players that start fairly high in the draft, and climb to an even higher draft position. Climbing 10 places to go from
+		60th to 50th isn't nearly as impressive as climbing 10 positions to go from 11th to 1st. A famous example would be Kobe Bryant, who was drafted 
+		13th overall in 1996, but is now considered one of the greatest of his generation (if not all time). Needless to say, for all players drafted in 1996, Kobe 
+		Bryant has the highest VORP for that crop.
+		<br>
+		Using a similar calculation used on the pudding article mentioned at the very start of the article, we've elected to measure players outperformance by subtracting their VORP from the players
+		that were redrafted into their position. 
+		<br>
+		So for instance, Steph Curry was drafted 7th overall by Golden State Warriors in 2009, as of September 2019 he had a VORP of 51.1. In the same year, Ricky Rubio was drafted at 5th, and has achieved a VORP so far of 12.3, redrafting him at 7. So Steph Curry's VORP deficit is 51.1 - 12.3 = 38.8.
+		<br>
+		The players at the top of the chart below are the likely faces you would expect, Steph Curry, Russell Westbrook, and James Harden. 
+		<br>
+		Players that have neither outperformed nor underperformed sit in the middle, this is players like Karl Anthony Towns, Ben Simmons (respective draft 1 picks). At the very bottom are players that have seemingly underperformed, although this seems harsh on players such as Derrick Rose and Blake Griffin, the latter of which has not been very luckily in terms of injuries. 
+		</p>	
+	</div>	
+
+
+
+	
+
+<div>
+<style>
+	body {
+	  font: 11px sans-serif;
+	}
+	
+	
+	.bar--positive {
+		fill: #A3BE8C;
+	}
+
+	.bar--negative {
+		fill: #BF616A;
+	}
+
+	.axis text {
+		font: 12px sans-serif;
+	}
+
+	.axis path,
+	.nv-axis.nv-x .tick line {
+        display:none;
+    }
+	.tick line{
+	visibility:hidden;
+				}
+	.axis line {
+		fill: none;
+		stroke: #000;
+		shape-rendering: crispEdges;
+	}
+	
+	div.tooltipbar {
+				position: absolute;
+				text-align: right;
+				width: 140px;
+				height: 130px;
+				padding: 6px;
+				font: 12px sans-serif;
+				background: white;
+				border: 1px solid lightgray;
+				border-radius: 8px;
+				pointer-events: none;
+		}
+		
+	#content {
+		width: 500px;
+		padding-left: 50px;
+		font: 14px sans-serif;
+		line-height: 1.5em;
+	}
+	</style>
+
+	<div id="container" style="
+		 text-align: center;">
+	<h1>The NBA's biggest busts and steals since 2008</h1>
+	<script id="barchart" src="NBA_Barchart.js"></script>
+
+</div>
+
+
+    <div style="width:40%; margin:0 auto;">
+		<p style="font-family: 'Rubik';
+			        font-size: 16px;
+				    color: #3B4252;">
+		All of the data for this article was sourced from <a href="https://www.basketball-reference.com/">basketball-reference</a>. 
+		<br>
+		The python, javascript and html files for this page can be found on my <a href="https://github.com/jakehughes1882/NBA-Redraft">github</a> repository.
+		<br>
+		If you enjoyed this article, or have other questions, get in touch by emailing jakehu1993@gmail.com, or through my twitter <a href="https://twitter.com/JaaaaakeH">@JaaaaakeH </a>. 
+		</p>	
+	</div>	
+
+
+
+	
+</body></html>
