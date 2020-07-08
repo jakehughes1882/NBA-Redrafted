@@ -1,0 +1,38 @@
+body {
+  font: 11px sans-serif;
+  margin-left: 0.0%;
+}
+
+.axis path,
+.nv-axis.nv-x .tick line {
+        display:none};
+.axis line {
+  fill: none;
+  stroke: #FFF;
+  shape-rendering: crispEdges;        
+	}		
+.dot {
+  stroke: #000;
+  stroke-width: 0;
+}
+
+		
+.placeholderText > p {height: 100vh;	
+}	
+.placeholderText {position: relative;
+				  width: 25%;
+				  top: 0;
+				  left:70%;
+				  right: 2%;
+				  margin-right: 2%;	
+}				
+.row {
+	display:flex;
+	flex-direction: row 
+}
+#container_grid_bar {
+    position: sticky;
+    padding-left: 50px;
+    width: 70%;
+    top: 10px;    
+}

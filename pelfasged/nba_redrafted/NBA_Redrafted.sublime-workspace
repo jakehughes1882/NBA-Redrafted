@@ -1,0 +1,784 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin_bar"
+			],
+			[
+				"NBA",
+				"NBA_Draft"
+			],
+			[
+				"player",
+				"Player"
+			],
+			[
+				"Country",
+				"CountryList"
+			],
+			[
+				"Teams",
+				"eplTeamsString"
+			],
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"data",
+				"datafield"
+			],
+			[
+				"load",
+				"load_games"
+			],
+			[
+				"count",
+				"countrealstring"
+			],
+			[
+				"fil",
+				"file_object"
+			],
+			[
+				"filt",
+				"filter"
+			],
+			[
+				"po",
+				"pokemon_dict"
+			],
+			[
+				"p",
+				"pokemon_dict"
+			],
+			[
+				"egg_gr",
+				"egg_group_id"
+			],
+			[
+				"egg",
+				"egg_groups"
+			],
+			[
+				"Poss",
+				"PossiblePokemonNUM"
+			],
+			[
+				"rem",
+				"rem_list1"
+			],
+			[
+				"poss",
+				"PossiblePokemon"
+			],
+			[
+				"poke",
+				"pokemon_dict"
+			],
+			[
+				"Poke",
+				"pokemon_dict"
+			],
+			[
+				"Types",
+				"Types_Filled"
+			],
+			[
+				"Pokem",
+				"pokemon_species"
+			],
+			[
+				"Spd",
+				"SpDef1"
+			],
+			[
+				"SpA",
+				"SpAtk1"
+			],
+			[
+				"Def",
+				"Def1"
+			],
+			[
+				"pok",
+				"pokemon_dict"
+			],
+			[
+				"pokemon",
+				"pokemon_dict"
+			],
+			[
+				"crop",
+				"cropped_img"
+			],
+			[
+				"Comp",
+				"Companylist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jakehughes/Documents/PythonScripts/NBA/NBA_Redrafted.py",
+			"settings":
+			{
+				"buffer_size": 2890,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NBA_scatter.js",
+			"settings":
+			{
+				"buffer_size": 12698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TeamOrCollege.py",
+			"settings":
+			{
+				"buffer_size": 6273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NBA_Redrafted.py",
+			"settings":
+			{
+				"buffer_size": 2890,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NBADraft.py",
+			"settings":
+			{
+				"buffer_size": 4321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NBA_Redrafted.html",
+			"settings":
+			{
+				"buffer_size": 14171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NBA_Barchart.js",
+			"settings":
+			{
+				"buffer_size": 3548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scatter_style.css",
+			"settings":
+			{
+				"buffer_size": 793,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scatter_by_team.js",
+			"settings":
+			{
+				"buffer_size": 4194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NBA_Grid.js",
+			"settings":
+			{
+				"buffer_size": 4486,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/Bad_Tottenham/MinutesPlayed.js",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/scatter_transition_test.html",
+		"/Users/jakehughes/Documents/Ooft/public/index.html",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/NBA_Redrafted.py",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/WhoScored/WhoScored.py",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/NBADraft.py",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/WorldCupVsExperience/Scraper.py",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/statsbomb/StatsBomb.py",
+		"/Users/jakehughes/Documents/Downer/filter_wms.py",
+		"/Users/jakehughes/Downloads/Read6dFGS (2).py",
+		"/Users/jakehughes/Documents/Downer/DownerSpreadsheets.py",
+		"/Users/jakehughes/Documents/SydneyLHD/create/encounter_fact.sql",
+		"/Users/jakehughes/Documents/SydneyLHD/dim_patient.sql",
+		"/Users/jakehughes/Documents/SydneyLHD/create/dim_patient.sql",
+		"/Users/jakehughes/Documents/SydneyLHD/create_encounter_fact.sql",
+		"/Users/jakehughes/Documents/slhd-los/SQL/pm/tables/encounter_fact.sql",
+		"/Users/jakehughes/Documents/Downer/wms_nsw.csv",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/better_grid.html",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/NBA_Grid.js",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/NBA_Barchart.js",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/ChampionsLeague/pdfreader.py",
+		"/Users/jakehughes/Documents/SydneyLHD/Events.csv",
+		"/Users/jakehughes/Documents/SydneyLHD/apEventDetailedTable.sql",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/barchart_example.js",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/Better_grid_example.html",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/nba_test_csv.py",
+		"/Users/jakehughes/Documents/PythonScripts/Spotify/DIY2.py",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/NBADraftPicks.csv",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/NBADraftPicks_test.csv",
+		"/Users/jakehughes/Documents/PythonScripts/Spotify/Spotify_Australia_2018.py",
+		"/Users/jakehughes/Downloads/HonoursProjectWebsite.py",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/ReDraftWebsiteSIMPLE.html",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/ReDraftWebsite.html",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/html_annotate_example.html",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/Annotate_example.js",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/grid.html",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/grid.js",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/nba_grid_example.py",
+		"/Users/jakehughes/Documents/PythonScripts/NBA/GridExample.py",
+		"/Users/jakehughes/Documents/SydneyLHD/JoiningVisitIdentifier.sql",
+		"/Users/jakehughes/Documents/SydneyLHD/JoiningJustificationJournal.sql",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/Transfermarkt/PageScrape.py",
+		"/Users/jakehughes/Documents/PythonScripts/GeneralDataSets/EuropeRegionsTopog.json",
+		"/Users/jakehughes/Documents/PythonScripts/GeneralDataSets/EuropeRegionsTopog2.json",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/Untitled Folder/WorldRankingRaw.txt",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/GeneralUse/WorldRankingFormatter.py",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/WhoScored/whoscoredarchive.py",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/WhoScored/collatecsvs.py",
+		"/Users/jakehughes/Documents/PythonScripts/GeneralDataSets/CapitolsGDP.json",
+		"/Users/jakehughes/Documents/PythonScripts/OldCode/ReadList.py",
+		"/Users/jakehughes/Documents/PythonScripts/OldCode/SimulatedGWList.py",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/WhoScored/test.py",
+		"/Users/jakehughes/Documents/PythonScripts/FootballCode/WhoScored/pagesourcetest.py",
+		"/Users/jakehughes/Documents/Python Scripts/FootballCode/seleniumtest.py",
+		"/Users/jakehughes/Documents/Python Scripts/FootballCode/ChampionsLeague",
+		"/Users/jakehughes/Documents/BAC/BAC.py",
+		"/Users/jakehughes/Documents/BAC/untitled.py",
+		"/Users/jakehughes/Documents/Python Scripts/Derbies_data.py",
+		"/Users/jakehughes/Documents/Python Scripts/Spotify/Spotify_Australia_2018.py",
+		"/Users/jakehughes/Documents/FootballCode/statsbomb/StatsBomb.py",
+		"/Users/jakehughes/Documents/FootballCode/PremierLeague/DrawsvGoalsCorr.py",
+		"/Users/jakehughes/Documents/FootballCode/statsbomb/WC2018/Statsbomb_Events.py",
+		"/Users/jakehughes/Documents/FootballCode/football_json_test.json",
+		"/Users/jakehughes/Documents/Python Scripts/ChampsFormatter.py",
+		"/Users/jakehughes/Documents/FootballCode/statsbomb/WC2018/untitled.py",
+		"/Users/jakehughes/Documents/Python Scripts/ReadList.py",
+		"/Users/jakehughes/Documents/FootballCode/statsbomb/WC2018/Short.json",
+		"/Users/jakehughes/Documents/FootballCode/Patch/NUPS.exe",
+		"/Users/jakehughes/Documents/GenesisCare/retro",
+		"/Users/jakehughes/Documents/Python Scripts/TripleJ_Clean.py",
+		"/Users/jakehughes/Documents/Python Scripts/tripleJ_top200_raw",
+		"/Users/jakehughes/Documents/Python Scripts/Spotify/SpotifyAPI.py",
+		"/Users/jakehughes/Documents/Python Scripts/PKMN/PokemonChooser.py",
+		"/Users/jakehughes/Documents/Python Scripts/DetectorFunc.py",
+		"/Users/jakehughes/Documents/FootballCode/ChampionsLeague.txt",
+		"/Users/jakehughes/Documents/Python Scripts/idunno",
+		"/Users/jakehughes/Downloads/pokedex-master/pokedex/data/csv/types.csv",
+		"/Users/jakehughes/Documents/FootballCode/Derbies_data.py",
+		"/Users/jakehughes/Downloads/Read6dFGS.py",
+		"/Users/jakehughes/Documents/Python Scripts/Wentwest/ClientSheet.py",
+		"/Users/jakehughes/Documents/BAC/Companylist.txt",
+		"/Users/jakehughes/Downloads/Jake.txt",
+		"/Users/jakehughes/Documents/BAC/EDIS.py",
+		"/Users/jakehughes/Downloads/sdf_radios.py",
+		"/Users/jakehughes/Downloads/PMHC-MDS_Data Dictionary 04072017 - Client.csv",
+		"/Users/jakehughes/Downloads/Python-3.3.6/README",
+		"/Users/jakehughes/Downloads/pwcracking/hashes",
+		"/Users/jakehughes/Documents/Python Scripts/Play/TwitterAPI_test.py",
+		"/Users/jakehughes/Documents/Python Scripts/Play/Twitter Application Settings 2",
+		"/Users/jakehughes/Documents/Wentwest/Data Load Editor/rpt_Note.txt",
+		"/Users/jakehughes/Documents/Wentwest/Data Load Editor/excellist.sql",
+		"/Users/jakehughes/Documents/Python Scripts/Play/Twitter Application Settings",
+		"/Users/jakehughes/Documents/Wentwest/EthnicityCode.csv",
+		"/Users/jakehughes/Documents/Wentwest/Data Load Editor/ReportContactColumns.txt",
+		"/Users/jakehughes/Documents/Wentwest/Data Load Editor/ReportColumns.txt",
+		"/Users/jakehughes/Documents/Wentwest/Data Load Editor/Patients.sql",
+		"/Users/jakehughes/Documents/Wentwest/Data Load Editor/Transformed.sql",
+		"/Users/jakehughes/Documents/Wentwest/Data Load Editor/FOBT.sql",
+		"/Users/jakehughes/Documents/Wentwest/Data Load Editor/Updates.sql"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jakehughes/Documents/PythonScripts/NBA/NBA_Redrafted.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "NBA_scatter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "TeamOrCollege.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "NBA_Redrafted.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "NBADraft.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "NBA_Redrafted.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5596.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "NBA_Barchart.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "scatter_style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "scatter_by_team.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "NBA_Grid.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "NBA_Redrafted.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

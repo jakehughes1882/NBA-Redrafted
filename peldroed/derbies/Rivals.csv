@@ -1,0 +1,747 @@
+Team,Rival,Severity
+Arsenal,Aston Villa,0
+Arsenal,Bournemouth,0
+Arsenal,Brighton,0
+Arsenal,Burnley,0
+Arsenal,Cardiff,0
+Arsenal,Chelsea,2
+Arsenal,Crystal Palace,0
+Arsenal,Everton,0
+Arsenal,Fulham,0
+Arsenal,Huddersfield,0
+Arsenal,Hull,0
+Arsenal,Leicester,0
+Arsenal,Liverpool,0
+Arsenal,Man City,0
+Arsenal,Man United,0
+Arsenal,Middlesbrough,0
+Arsenal,Newcastle,0
+Arsenal,Norwich,0
+Arsenal,QPR,0
+Arsenal,Southampton,0
+Arsenal,Stoke,0
+Arsenal,Sunderland,0
+Arsenal,Swansea,0
+Arsenal,Tottenham,3
+Arsenal,Watford,0
+Arsenal,West Brom,0
+Arsenal,West Ham,1
+Arsenal,Wolves,0
+Aston Villa,Arsenal,0
+Aston Villa,Bournemouth,0
+Aston Villa,Burnley,0
+Aston Villa,Cardiff,0
+Aston Villa,Chelsea,0
+Aston Villa,Crystal Palace,0
+Aston Villa,Everton,0
+Aston Villa,Fulham,0
+Aston Villa,Hull,0
+Aston Villa,Leicester,0
+Aston Villa,Liverpool,0
+Aston Villa,Man City,0
+Aston Villa,Man United,0
+Aston Villa,Newcastle,0
+Aston Villa,Norwich,0
+Aston Villa,QPR,0
+Aston Villa,Southampton,0
+Aston Villa,Stoke,0
+Aston Villa,Sunderland,0
+Aston Villa,Swansea,0
+Aston Villa,Tottenham,0
+Aston Villa,Watford,0
+Aston Villa,West Brom,1
+Aston Villa,West Ham,0
+Bournemouth,Arsenal,0
+Bournemouth,Aston Villa,0
+Bournemouth,Brighton,0
+Bournemouth,Burnley,0
+Bournemouth,Cardiff,0
+Bournemouth,Chelsea,0
+Bournemouth,Crystal Palace,0
+Bournemouth,Everton,0
+Bournemouth,Fulham,0
+Bournemouth,Huddersfield,0
+Bournemouth,Hull,0
+Bournemouth,Leicester,0
+Bournemouth,Liverpool,0
+Bournemouth,Man City,0
+Bournemouth,Man United,0
+Bournemouth,Middlesbrough,0
+Bournemouth,Newcastle,0
+Bournemouth,Norwich,0
+Bournemouth,Southampton,2
+Bournemouth,Stoke,0
+Bournemouth,Sunderland,0
+Bournemouth,Swansea,0
+Bournemouth,Tottenham,0
+Bournemouth,Watford,0
+Bournemouth,West Brom,0
+Bournemouth,West Ham,0
+Bournemouth,Wolves,0
+Brighton,Arsenal,0
+Brighton,Bournemouth,0
+Brighton,Burnley,0
+Brighton,Cardiff,0
+Brighton,Chelsea,0
+Brighton,Crystal Palace,2
+Brighton,Everton,0
+Brighton,Fulham,0
+Brighton,Huddersfield,0
+Brighton,Leicester,0
+Brighton,Liverpool,0
+Brighton,Man City,0
+Brighton,Man United,0
+Brighton,Newcastle,0
+Brighton,Southampton,0
+Brighton,Stoke,0
+Brighton,Swansea,0
+Brighton,Tottenham,0
+Brighton,Watford,0
+Brighton,West Brom,0
+Brighton,West Ham,0
+Brighton,Wolves,0
+Burnley,Arsenal,0
+Burnley,Aston Villa,0
+Burnley,Bournemouth,0
+Burnley,Brighton,0
+Burnley,Cardiff,0
+Burnley,Chelsea,0
+Burnley,Crystal Palace,0
+Burnley,Everton,0
+Burnley,Fulham,0
+Burnley,Huddersfield,0
+Burnley,Hull,0
+Burnley,Leicester,0
+Burnley,Liverpool,0
+Burnley,Man City,0
+Burnley,Man United,0
+Burnley,Middlesbrough,0
+Burnley,Newcastle,0
+Burnley,QPR,0
+Burnley,Southampton,0
+Burnley,Stoke,0
+Burnley,Sunderland,0
+Burnley,Swansea,0
+Burnley,Tottenham,0
+Burnley,Watford,0
+Burnley,West Brom,0
+Burnley,West Ham,0
+Burnley,Wolves,0
+Cardiff,Arsenal,0
+Cardiff,Aston Villa,0
+Cardiff,Bournemouth,0
+Cardiff,Brighton,0
+Cardiff,Burnley,0
+Cardiff,Chelsea,0
+Cardiff,Crystal Palace,0
+Cardiff,Everton,0
+Cardiff,Fulham,0
+Cardiff,Huddersfield,0
+Cardiff,Hull,0
+Cardiff,Leicester,0
+Cardiff,Liverpool,0
+Cardiff,Man City,0
+Cardiff,Man United,0
+Cardiff,Newcastle,0
+Cardiff,Norwich,0
+Cardiff,Southampton,0
+Cardiff,Stoke,0
+Cardiff,Sunderland,0
+Cardiff,Swansea,3
+Cardiff,Tottenham,0
+Cardiff,Watford,0
+Cardiff,West Brom,0
+Cardiff,West Ham,0
+Cardiff,Wolves,0
+Chelsea,Arsenal,2
+Chelsea,Aston Villa,0
+Chelsea,Bournemouth,0
+Chelsea,Brighton,0
+Chelsea,Burnley,0
+Chelsea,Cardiff,0
+Chelsea,Crystal Palace,0
+Chelsea,Everton,0
+Chelsea,Fulham,1
+Chelsea,Huddersfield,0
+Chelsea,Hull,0
+Chelsea,Leicester,0
+Chelsea,Liverpool,0
+Chelsea,Man City,0
+Chelsea,Man United,0
+Chelsea,Middlesbrough,0
+Chelsea,Newcastle,0
+Chelsea,Norwich,0
+Chelsea,QPR,1
+Chelsea,Southampton,0
+Chelsea,Stoke,0
+Chelsea,Sunderland,0
+Chelsea,Swansea,0
+Chelsea,Tottenham,3
+Chelsea,Watford,0
+Chelsea,West Brom,0
+Chelsea,West Ham,1
+Chelsea,Wolves,0
+Crystal Palace,Arsenal,0
+Crystal Palace,Aston Villa,0
+Crystal Palace,Bournemouth,0
+Crystal Palace,Brighton,2
+Crystal Palace,Burnley,0
+Crystal Palace,Cardiff,0
+Crystal Palace,Chelsea,0
+Crystal Palace,Everton,0
+Crystal Palace,Fulham,0
+Crystal Palace,Huddersfield,0
+Crystal Palace,Hull,0
+Crystal Palace,Leicester,0
+Crystal Palace,Liverpool,0
+Crystal Palace,Man City,0
+Crystal Palace,Man United,0
+Crystal Palace,Middlesbrough,0
+Crystal Palace,Newcastle,0
+Crystal Palace,Norwich,0
+Crystal Palace,QPR,0
+Crystal Palace,Southampton,0
+Crystal Palace,Stoke,0
+Crystal Palace,Sunderland,0
+Crystal Palace,Swansea,0
+Crystal Palace,Tottenham,0
+Crystal Palace,Watford,0
+Crystal Palace,West Brom,0
+Crystal Palace,West Ham,0
+Crystal Palace,Wolves,0
+Everton,Arsenal,0
+Everton,Aston Villa,0
+Everton,Bournemouth,0
+Everton,Brighton,0
+Everton,Burnley,0
+Everton,Cardiff,0
+Everton,Chelsea,0
+Everton,Crystal Palace,0
+Everton,Fulham,0
+Everton,Huddersfield,0
+Everton,Hull,0
+Everton,Leicester,0
+Everton,Liverpool,2
+Everton,Man City,0
+Everton,Man United,0
+Everton,Middlesbrough,0
+Everton,Newcastle,0
+Everton,Norwich,0
+Everton,QPR,0
+Everton,Southampton,0
+Everton,Stoke,0
+Everton,Sunderland,0
+Everton,Swansea,0
+Everton,Tottenham,0
+Everton,Watford,0
+Everton,West Brom,0
+Everton,West Ham,0
+Everton,Wolves,0
+Fulham,Arsenal,0
+Fulham,Aston Villa,0
+Fulham,Bournemouth,0
+Fulham,Brighton,0
+Fulham,Burnley,0
+Fulham,Cardiff,0
+Fulham,Chelsea,1
+Fulham,Crystal Palace,0
+Fulham,Everton,0
+Fulham,Huddersfield,0
+Fulham,Hull,0
+Fulham,Leicester,0
+Fulham,Liverpool,0
+Fulham,Man City,0
+Fulham,Man United,0
+Fulham,Newcastle,0
+Fulham,Norwich,0
+Fulham,Southampton,0
+Fulham,Stoke,0
+Fulham,Sunderland,0
+Fulham,Swansea,0
+Fulham,Tottenham,0
+Fulham,Watford,0
+Fulham,West Brom,0
+Fulham,West Ham,0
+Fulham,Wolves,0
+Huddersfield,Arsenal,0
+Huddersfield,Bournemouth,0
+Huddersfield,Brighton,0
+Huddersfield,Burnley,0
+Huddersfield,Cardiff,0
+Huddersfield,Chelsea,0
+Huddersfield,Crystal Palace,0
+Huddersfield,Everton,0
+Huddersfield,Fulham,0
+Huddersfield,Leicester,0
+Huddersfield,Liverpool,0
+Huddersfield,Man City,0
+Huddersfield,Man United,0
+Huddersfield,Newcastle,0
+Huddersfield,Southampton,0
+Huddersfield,Stoke,0
+Huddersfield,Swansea,0
+Huddersfield,Tottenham,0
+Huddersfield,Watford,0
+Huddersfield,West Brom,0
+Huddersfield,West Ham,0
+Huddersfield,Wolves,0
+Hull,Arsenal,0
+Hull,Aston Villa,0
+Hull,Bournemouth,0
+Hull,Burnley,0
+Hull,Cardiff,0
+Hull,Chelsea,0
+Hull,Crystal Palace,0
+Hull,Everton,0
+Hull,Fulham,0
+Hull,Leicester,0
+Hull,Liverpool,0
+Hull,Man City,0
+Hull,Man United,0
+Hull,Middlesbrough,0
+Hull,Newcastle,0
+Hull,Norwich,0
+Hull,QPR,0
+Hull,Southampton,0
+Hull,Stoke,0
+Hull,Sunderland,0
+Hull,Swansea,0
+Hull,Tottenham,0
+Hull,Watford,0
+Hull,West Brom,0
+Hull,West Ham,0
+Leicester,Arsenal,0
+Leicester,Aston Villa,0
+Leicester,Bournemouth,0
+Leicester,Brighton,0
+Leicester,Burnley,0
+Leicester,Cardiff,0
+Leicester,Chelsea,0
+Leicester,Crystal Palace,0
+Leicester,Everton,0
+Leicester,Fulham,0
+Leicester,Huddersfield,0
+Leicester,Hull,0
+Leicester,Liverpool,0
+Leicester,Man City,0
+Leicester,Man United,0
+Leicester,Middlesbrough,0
+Leicester,Newcastle,0
+Leicester,Norwich,0
+Leicester,QPR,0
+Leicester,Southampton,0
+Leicester,Stoke,0
+Leicester,Sunderland,0
+Leicester,Swansea,0
+Leicester,Tottenham,0
+Leicester,Watford,0
+Leicester,West Brom,0
+Leicester,West Ham,0
+Leicester,Wolves,0
+Liverpool,Arsenal,0
+Liverpool,Aston Villa,0
+Liverpool,Bournemouth,0
+Liverpool,Brighton,0
+Liverpool,Burnley,0
+Liverpool,Cardiff,0
+Liverpool,Chelsea,0
+Liverpool,Crystal Palace,0
+Liverpool,Everton,2
+Liverpool,Fulham,0
+Liverpool,Huddersfield,0
+Liverpool,Hull,0
+Liverpool,Leicester,0
+Liverpool,Man City,0
+Liverpool,Man United,3
+Liverpool,Middlesbrough,0
+Liverpool,Newcastle,0
+Liverpool,Norwich,0
+Liverpool,QPR,0
+Liverpool,Southampton,0
+Liverpool,Stoke,0
+Liverpool,Sunderland,0
+Liverpool,Swansea,0
+Liverpool,Tottenham,0
+Liverpool,Watford,0
+Liverpool,West Brom,0
+Liverpool,West Ham,0
+Liverpool,Wolves,0
+Man City,Arsenal,0
+Man City,Aston Villa,0
+Man City,Bournemouth,0
+Man City,Brighton,0
+Man City,Burnley,0
+Man City,Cardiff,0
+Man City,Chelsea,0
+Man City,Crystal Palace,0
+Man City,Everton,0
+Man City,Fulham,0
+Man City,Huddersfield,0
+Man City,Hull,0
+Man City,Leicester,0
+Man City,Liverpool,0
+Man City,Man United,2
+Man City,Middlesbrough,0
+Man City,Newcastle,0
+Man City,Norwich,0
+Man City,QPR,0
+Man City,Southampton,0
+Man City,Stoke,0
+Man City,Sunderland,0
+Man City,Swansea,0
+Man City,Tottenham,0
+Man City,Watford,0
+Man City,West Brom,0
+Man City,West Ham,0
+Man City,Wolves,0
+Man United,Arsenal,0
+Man United,Aston Villa,0
+Man United,Bournemouth,0
+Man United,Brighton,0
+Man United,Burnley,0
+Man United,Cardiff,0
+Man United,Chelsea,0
+Man United,Crystal Palace,0
+Man United,Everton,0
+Man United,Fulham,0
+Man United,Huddersfield,0
+Man United,Hull,0
+Man United,Leicester,0
+Man United,Liverpool,3
+Man United,Man City,2
+Man United,Middlesbrough,0
+Man United,Newcastle,0
+Man United,Norwich,0
+Man United,QPR,0
+Man United,Southampton,0
+Man United,Stoke,0
+Man United,Sunderland,0
+Man United,Swansea,0
+Man United,Tottenham,0
+Man United,Watford,0
+Man United,West Brom,0
+Man United,West Ham,0
+Man United,Wolves,0
+Middlesbrough,Arsenal,0
+Middlesbrough,Bournemouth,0
+Middlesbrough,Burnley,0
+Middlesbrough,Chelsea,0
+Middlesbrough,Crystal Palace,0
+Middlesbrough,Everton,0
+Middlesbrough,Hull,0
+Middlesbrough,Leicester,0
+Middlesbrough,Liverpool,0
+Middlesbrough,Man City,0
+Middlesbrough,Man United,0
+Middlesbrough,Southampton,0
+Middlesbrough,Stoke,0
+Middlesbrough,Sunderland,2
+Middlesbrough,Swansea,0
+Middlesbrough,Tottenham,0
+Middlesbrough,Watford,0
+Middlesbrough,West Brom,0
+Middlesbrough,West Ham,0
+Newcastle,Arsenal,0
+Newcastle,Aston Villa,0
+Newcastle,Bournemouth,0
+Newcastle,Brighton,0
+Newcastle,Burnley,0
+Newcastle,Cardiff,0
+Newcastle,Chelsea,0
+Newcastle,Crystal Palace,0
+Newcastle,Everton,0
+Newcastle,Fulham,0
+Newcastle,Huddersfield,0
+Newcastle,Hull,0
+Newcastle,Leicester,0
+Newcastle,Liverpool,0
+Newcastle,Man City,0
+Newcastle,Man United,0
+Newcastle,Norwich,0
+Newcastle,QPR,0
+Newcastle,Southampton,0
+Newcastle,Stoke,0
+Newcastle,Sunderland,3
+Newcastle,Swansea,0
+Newcastle,Tottenham,0
+Newcastle,Watford,0
+Newcastle,West Brom,0
+Newcastle,West Ham,0
+Newcastle,Wolves,0
+Norwich,Arsenal,0
+Norwich,Aston Villa,0
+Norwich,Bournemouth,0
+Norwich,Cardiff,0
+Norwich,Chelsea,0
+Norwich,Crystal Palace,0
+Norwich,Everton,0
+Norwich,Fulham,0
+Norwich,Hull,0
+Norwich,Leicester,0
+Norwich,Liverpool,0
+Norwich,Man City,0
+Norwich,Man United,0
+Norwich,Newcastle,0
+Norwich,Southampton,0
+Norwich,Stoke,0
+Norwich,Sunderland,0
+Norwich,Swansea,0
+Norwich,Tottenham,0
+Norwich,Watford,0
+Norwich,West Brom,0
+Norwich,West Ham,0
+QPR,Arsenal,0
+QPR,Aston Villa,0
+QPR,Burnley,0
+QPR,Chelsea,1
+QPR,Crystal Palace,0
+QPR,Everton,0
+QPR,Hull,0
+QPR,Leicester,0
+QPR,Liverpool,0
+QPR,Man City,0
+QPR,Man United,0
+QPR,Newcastle,0
+QPR,Southampton,0
+QPR,Stoke,0
+QPR,Sunderland,0
+QPR,Swansea,0
+QPR,Tottenham,0
+QPR,West Brom,0
+QPR,West Ham,0
+Southampton,Arsenal,0
+Southampton,Aston Villa,0
+Southampton,Bournemouth,2
+Southampton,Brighton,0
+Southampton,Burnley,0
+Southampton,Cardiff,0
+Southampton,Chelsea,0
+Southampton,Crystal Palace,0
+Southampton,Everton,0
+Southampton,Fulham,0
+Southampton,Huddersfield,0
+Southampton,Hull,0
+Southampton,Leicester,0
+Southampton,Liverpool,0
+Southampton,Man City,0
+Southampton,Man United,0
+Southampton,Middlesbrough,0
+Southampton,Newcastle,0
+Southampton,Norwich,0
+Southampton,QPR,0
+Southampton,Stoke,0
+Southampton,Sunderland,0
+Southampton,Swansea,0
+Southampton,Tottenham,0
+Southampton,Watford,0
+Southampton,West Brom,0
+Southampton,West Ham,0
+Southampton,Wolves,0
+Stoke,Arsenal,0
+Stoke,Aston Villa,0
+Stoke,Bournemouth,0
+Stoke,Brighton,0
+Stoke,Burnley,0
+Stoke,Cardiff,0
+Stoke,Chelsea,0
+Stoke,Crystal Palace,0
+Stoke,Everton,0
+Stoke,Fulham,0
+Stoke,Huddersfield,0
+Stoke,Hull,0
+Stoke,Leicester,0
+Stoke,Liverpool,0
+Stoke,Man City,0
+Stoke,Man United,0
+Stoke,Middlesbrough,0
+Stoke,Newcastle,0
+Stoke,Norwich,0
+Stoke,QPR,0
+Stoke,Southampton,0
+Stoke,Sunderland,0
+Stoke,Swansea,0
+Stoke,Tottenham,0
+Stoke,Watford,0
+Stoke,West Brom,0
+Stoke,West Ham,0
+Sunderland,Arsenal,0
+Sunderland,Aston Villa,0
+Sunderland,Bournemouth,0
+Sunderland,Burnley,0
+Sunderland,Cardiff,0
+Sunderland,Chelsea,0
+Sunderland,Crystal Palace,0
+Sunderland,Everton,0
+Sunderland,Fulham,0
+Sunderland,Hull,0
+Sunderland,Leicester,0
+Sunderland,Liverpool,0
+Sunderland,Man City,0
+Sunderland,Man United,0
+Sunderland,Middlesbrough,2
+Sunderland,Newcastle,3
+Sunderland,Norwich,0
+Sunderland,QPR,0
+Sunderland,Southampton,0
+Sunderland,Stoke,0
+Sunderland,Swansea,0
+Sunderland,Tottenham,0
+Sunderland,Watford,0
+Sunderland,West Brom,0
+Sunderland,West Ham,0
+Swansea,Arsenal,0
+Swansea,Aston Villa,0
+Swansea,Bournemouth,0
+Swansea,Brighton,0
+Swansea,Burnley,0
+Swansea,Cardiff,3
+Swansea,Chelsea,0
+Swansea,Crystal Palace,0
+Swansea,Everton,0
+Swansea,Fulham,0
+Swansea,Huddersfield,0
+Swansea,Hull,0
+Swansea,Leicester,0
+Swansea,Liverpool,0
+Swansea,Man City,0
+Swansea,Man United,0
+Swansea,Middlesbrough,0
+Swansea,Newcastle,0
+Swansea,Norwich,0
+Swansea,QPR,0
+Swansea,Southampton,0
+Swansea,Stoke,0
+Swansea,Sunderland,0
+Swansea,Tottenham,0
+Swansea,Watford,0
+Swansea,West Brom,0
+Swansea,West Ham,0
+Tottenham,Arsenal,3
+Tottenham,Aston Villa,0
+Tottenham,Bournemouth,0
+Tottenham,Brighton,0
+Tottenham,Burnley,0
+Tottenham,Cardiff,0
+Tottenham,Chelsea,2
+Tottenham,Crystal Palace,0
+Tottenham,Everton,0
+Tottenham,Fulham,0
+Tottenham,Huddersfield,0
+Tottenham,Hull,0
+Tottenham,Leicester,0
+Tottenham,Liverpool,0
+Tottenham,Man City,0
+Tottenham,Man United,0
+Tottenham,Middlesbrough,0
+Tottenham,Newcastle,0
+Tottenham,Norwich,0
+Tottenham,QPR,0
+Tottenham,Southampton,0
+Tottenham,Stoke,0
+Tottenham,Sunderland,0
+Tottenham,Swansea,0
+Tottenham,Watford,0
+Tottenham,West Brom,0
+Tottenham,West Ham,2
+Tottenham,Wolves,0
+Watford,Arsenal,0
+Watford,Aston Villa,0
+Watford,Bournemouth,0
+Watford,Brighton,0
+Watford,Burnley,0
+Watford,Cardiff,0
+Watford,Chelsea,0
+Watford,Crystal Palace,0
+Watford,Everton,0
+Watford,Fulham,0
+Watford,Huddersfield,0
+Watford,Hull,0
+Watford,Leicester,0
+Watford,Liverpool,0
+Watford,Man City,0
+Watford,Man United,0
+Watford,Middlesbrough,0
+Watford,Newcastle,0
+Watford,Norwich,0
+Watford,Southampton,0
+Watford,Stoke,0
+Watford,Sunderland,0
+Watford,Swansea,0
+Watford,Tottenham,0
+Watford,West Brom,0
+Watford,West Ham,0
+Watford,Wolves,0
+West Brom,Arsenal,0
+West Brom,Aston Villa,1
+West Brom,Bournemouth,0
+West Brom,Brighton,0
+West Brom,Burnley,0
+West Brom,Cardiff,0
+West Brom,Chelsea,0
+West Brom,Crystal Palace,0
+West Brom,Everton,0
+West Brom,Fulham,0
+West Brom,Huddersfield,0
+West Brom,Hull,0
+West Brom,Leicester,0
+West Brom,Liverpool,0
+West Brom,Man City,0
+West Brom,Man United,0
+West Brom,Middlesbrough,0
+West Brom,Newcastle,0
+West Brom,Norwich,0
+West Brom,QPR,0
+West Brom,Southampton,0
+West Brom,Stoke,0
+West Brom,Sunderland,0
+West Brom,Swansea,0
+West Brom,Tottenham,0
+West Brom,Watford,0
+West Brom,West Ham,0
+West Ham,Arsenal,0
+West Ham,Aston Villa,0
+West Ham,Bournemouth,0
+West Ham,Brighton,0
+West Ham,Burnley,0
+West Ham,Cardiff,0
+West Ham,Chelsea,1
+West Ham,Crystal Palace,0
+West Ham,Everton,0
+West Ham,Fulham,0
+West Ham,Huddersfield,0
+West Ham,Hull,0
+West Ham,Leicester,0
+West Ham,Liverpool,0
+West Ham,Man City,0
+West Ham,Man United,0
+West Ham,Middlesbrough,0
+West Ham,Newcastle,0
+West Ham,Norwich,0
+West Ham,QPR,0
+West Ham,Southampton,0
+West Ham,Stoke,0
+West Ham,Sunderland,0
+West Ham,Swansea,0
+West Ham,Tottenham,2
+West Ham,Watford,0
+West Ham,West Brom,0
+West Ham,Wolves,0
+Wolves,Arsenal,0
+Wolves,Bournemouth,0
+Wolves,Brighton,0
+Wolves,Burnley,0
+Wolves,Cardiff,0
+Wolves,Chelsea,0
+Wolves,Crystal Palace,0
+Wolves,Everton,0
+Wolves,Fulham,0
+Wolves,Huddersfield,0
+Wolves,Leicester,0
+Wolves,Liverpool,0
+Wolves,Man City,0
+Wolves,Man United,0
+Wolves,Newcastle,0
+Wolves,Southampton,0
+Wolves,Tottenham,0
+Wolves,Watford,0
+Wolves,West Ham,0

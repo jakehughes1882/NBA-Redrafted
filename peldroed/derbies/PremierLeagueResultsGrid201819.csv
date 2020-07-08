@@ -1,0 +1,381 @@
+DerbyFlag,HomeTeam,AwayTeam,Result,Date,Scoreline,Outcome
+0,Man United,Leicester,won,10/08/2018,2-1,1
+0,Bournemouth,Cardiff,won,11/08/2018,2-0,1
+0,Fulham,Crystal Palace,lost,11/08/2018,0-2,-1
+0,Huddersfield,Chelsea,lost,11/08/2018,0-3,-1
+0,Newcastle,Tottenham,lost,11/08/2018,1-2,-1
+0,Watford,Brighton,won,11/08/2018,2-0,1
+0,Wolves,Everton,drew,11/08/2018,2-2,0
+0,Arsenal,Man City,lost,12/08/2018,0-2,-1
+0,Liverpool,West Ham,won,12/08/2018,4-0,1
+0,Southampton,Burnley,drew,12/08/2018,0-0,0
+0,Cardiff,Newcastle,drew,18/08/2018,0-0,0
+2,Chelsea,Arsenal,won,18/08/2018,3-2,1
+0,Everton,Southampton,won,18/08/2018,2-1,1
+0,Leicester,Wolves,won,18/08/2018,2-0,1
+0,Tottenham,Fulham,won,18/08/2018,3-1,1
+0,West Ham,Bournemouth,lost,18/08/2018,1-2,-1
+0,Brighton,Man United,won,19/08/2018,3-2,1
+0,Burnley,Watford,lost,19/08/2018,1-3,-1
+0,Man City,Huddersfield,won,19/08/2018,6-1,1
+0,Crystal Palace,Liverpool,lost,20/08/2018,0-2,-1
+0,Arsenal,West Ham,won,25/08/2018,3-1,1
+0,Bournemouth,Everton,drew,25/08/2018,2-2,0
+0,Huddersfield,Cardiff,drew,25/08/2018,0-0,0
+0,Liverpool,Brighton,won,25/08/2018,1-0,1
+0,Southampton,Leicester,lost,25/08/2018,1-2,-1
+0,Wolves,Man City,drew,25/08/2018,1-1,0
+0,Fulham,Burnley,won,26/08/2018,4-2,1
+0,Newcastle,Chelsea,lost,26/08/2018,1-2,-1
+0,Watford,Crystal Palace,won,26/08/2018,2-1,1
+0,Man United,Tottenham,lost,27/08/2018,0-3,-1
+0,Brighton,Fulham,drew,01/09/2018,2-2,0
+0,Chelsea,Bournemouth,won,01/09/2018,2-0,1
+0,Crystal Palace,Southampton,lost,01/09/2018,0-2,-1
+0,Everton,Huddersfield,drew,01/09/2018,1-1,0
+0,Leicester,Liverpool,lost,01/09/2018,1-2,-1
+0,Man City,Newcastle,won,01/09/2018,2-1,1
+0,West Ham,Wolves,lost,01/09/2018,0-1,-1
+0,Burnley,Man United,lost,02/09/2018,0-2,-1
+0,Cardiff,Arsenal,lost,02/09/2018,2-3,-1
+0,Watford,Tottenham,won,02/09/2018,2-1,1
+0,Bournemouth,Leicester,won,15/09/2018,4-2,1
+0,Chelsea,Cardiff,won,15/09/2018,4-1,1
+0,Huddersfield,Crystal Palace,lost,15/09/2018,0-1,-1
+0,Man City,Fulham,won,15/09/2018,3-0,1
+0,Newcastle,Arsenal,lost,15/09/2018,1-2,-1
+0,Tottenham,Liverpool,lost,15/09/2018,1-2,-1
+0,Watford,Man United,lost,15/09/2018,1-2,-1
+0,Everton,West Ham,lost,16/09/2018,1-3,-1
+0,Wolves,Burnley,won,16/09/2018,1-0,1
+0,Southampton,Brighton,drew,17/09/2018,2-2,0
+0,Brighton,Tottenham,lost,22/09/2018,1-2,-1
+0,Burnley,Bournemouth,won,22/09/2018,4-0,1
+0,Cardiff,Man City,lost,22/09/2018,0-5,-1
+0,Crystal Palace,Newcastle,drew,22/09/2018,0-0,0
+0,Fulham,Watford,drew,22/09/2018,1-1,0
+0,Leicester,Huddersfield,won,22/09/2018,3-1,1
+0,Liverpool,Southampton,won,22/09/2018,3-0,1
+0,Man United,Wolves,drew,22/09/2018,1-1,0
+0,Arsenal,Everton,won,23/09/2018,2-0,1
+1,West Ham,Chelsea,drew,23/09/2018,0-0,0
+0,Arsenal,Watford,won,29/09/2018,2-0,1
+0,Chelsea,Liverpool,drew,29/09/2018,1-1,0
+0,Everton,Fulham,won,29/09/2018,3-0,1
+0,Huddersfield,Tottenham,lost,29/09/2018,0-2,-1
+0,Man City,Brighton,won,29/09/2018,2-0,1
+0,Newcastle,Leicester,lost,29/09/2018,0-2,-1
+0,West Ham,Man United,won,29/09/2018,3-1,1
+0,Wolves,Southampton,won,29/09/2018,2-0,1
+0,Cardiff,Burnley,lost,30/09/2018,1-2,-1
+0,Bournemouth,Crystal Palace,won,01/10/2018,2-1,1
+0,Brighton,West Ham,won,05/10/2018,1-0,1
+0,Burnley,Huddersfield,drew,06/10/2018,1-1,0
+0,Crystal Palace,Wolves,lost,06/10/2018,0-1,-1
+0,Leicester,Everton,lost,06/10/2018,1-2,-1
+0,Man United,Newcastle,won,06/10/2018,3-2,1
+0,Tottenham,Cardiff,won,06/10/2018,1-0,1
+0,Watford,Bournemouth,lost,06/10/2018,0-4,-1
+0,Fulham,Arsenal,lost,07/10/2018,1-5,-1
+0,Liverpool,Man City,drew,07/10/2018,0-0,0
+0,Southampton,Chelsea,lost,07/10/2018,0-3,-1
+2,Bournemouth,Southampton,drew,20/10/2018,0-0,0
+0,Cardiff,Fulham,won,20/10/2018,4-2,1
+0,Chelsea,Man United,drew,20/10/2018,2-2,0
+0,Huddersfield,Liverpool,lost,20/10/2018,0-1,-1
+0,Man City,Burnley,won,20/10/2018,5-0,1
+0,Newcastle,Brighton,lost,20/10/2018,0-1,-1
+2,West Ham,Tottenham,lost,20/10/2018,0-1,-1
+0,Wolves,Watford,lost,20/10/2018,0-2,-1
+0,Everton,Crystal Palace,won,21/10/2018,2-0,1
+0,Arsenal,Leicester,won,22/10/2018,3-1,1
+0,Brighton,Wolves,won,27/10/2018,1-0,1
+0,Fulham,Bournemouth,lost,27/10/2018,0-3,-1
+0,Leicester,West Ham,drew,27/10/2018,1-1,0
+0,Liverpool,Cardiff,won,27/10/2018,4-1,1
+0,Southampton,Newcastle,drew,27/10/2018,0-0,0
+0,Watford,Huddersfield,won,27/10/2018,3-0,1
+0,Burnley,Chelsea,lost,28/10/2018,0-4,-1
+0,Crystal Palace,Arsenal,drew,28/10/2018,2-2,0
+0,Man United,Everton,won,28/10/2018,2-1,1
+0,Tottenham,Man City,lost,29/10/2018,0-1,-1
+0,Arsenal,Liverpool,drew,03/11/2018,1-1,0
+0,Bournemouth,Man United,lost,03/11/2018,1-2,-1
+0,Cardiff,Leicester,lost,03/11/2018,0-1,-1
+0,Everton,Brighton,won,03/11/2018,3-1,1
+0,Newcastle,Watford,won,03/11/2018,1-0,1
+0,West Ham,Burnley,won,03/11/2018,4-2,1
+0,Wolves,Tottenham,lost,03/11/2018,2-3,-1
+0,Chelsea,Crystal Palace,won,04/11/2018,3-1,1
+0,Man City,Southampton,won,04/11/2018,6-1,1
+0,Huddersfield,Fulham,won,05/11/2018,1-0,1
+0,Cardiff,Brighton,won,10/11/2018,2-1,1
+0,Crystal Palace,Tottenham,lost,10/11/2018,0-1,-1
+0,Huddersfield,West Ham,drew,10/11/2018,1-1,0
+0,Leicester,Burnley,drew,10/11/2018,0-0,0
+0,Newcastle,Bournemouth,won,10/11/2018,2-1,1
+0,Southampton,Watford,drew,10/11/2018,1-1,0
+0,Arsenal,Wolves,drew,11/11/2018,1-1,0
+0,Chelsea,Everton,drew,11/11/2018,0-0,0
+0,Liverpool,Fulham,won,11/11/2018,2-0,1
+2,Man City,Man United,won,11/11/2018,3-1,1
+0,Brighton,Leicester,drew,24/11/2018,1-1,0
+0,Everton,Cardiff,won,24/11/2018,1-0,1
+0,Fulham,Southampton,won,24/11/2018,3-2,1
+0,Man United,Crystal Palace,drew,24/11/2018,0-0,0
+3,Tottenham,Chelsea,won,24/11/2018,3-1,1
+0,Watford,Liverpool,lost,24/11/2018,0-3,-1
+0,West Ham,Man City,lost,24/11/2018,0-4,-1
+0,Bournemouth,Arsenal,lost,25/11/2018,1-2,-1
+0,Wolves,Huddersfield,lost,25/11/2018,0-2,-1
+0,Burnley,Newcastle,lost,26/11/2018,1-2,-1
+0,Cardiff,Wolves,won,30/11/2018,2-1,1
+0,Crystal Palace,Burnley,won,01/12/2018,2-0,1
+0,Huddersfield,Brighton,lost,01/12/2018,1-2,-1
+0,Leicester,Watford,won,01/12/2018,2-0,1
+0,Man City,Bournemouth,won,01/12/2018,3-1,1
+0,Newcastle,West Ham,lost,01/12/2018,0-3,-1
+0,Southampton,Man United,drew,01/12/2018,2-2,0
+3,Arsenal,Tottenham,won,02/12/2018,4-2,1
+1,Chelsea,Fulham,won,02/12/2018,2-0,1
+2,Liverpool,Everton,won,02/12/2018,1-0,1
+0,Bournemouth,Huddersfield,won,04/12/2018,2-1,1
+2,Brighton,Crystal Palace,won,04/12/2018,3-1,1
+0,Watford,Man City,lost,04/12/2018,1-2,-1
+0,West Ham,Cardiff,won,04/12/2018,3-1,1
+0,Burnley,Liverpool,lost,05/12/2018,1-3,-1
+0,Everton,Newcastle,drew,05/12/2018,1-1,0
+0,Fulham,Leicester,drew,05/12/2018,1-1,0
+0,Man United,Arsenal,drew,05/12/2018,2-2,0
+0,Tottenham,Southampton,won,05/12/2018,3-1,1
+0,Wolves,Chelsea,won,05/12/2018,2-1,1
+0,Arsenal,Huddersfield,won,08/12/2018,1-0,1
+0,Bournemouth,Liverpool,lost,08/12/2018,0-4,-1
+0,Burnley,Brighton,won,08/12/2018,1-0,1
+0,Cardiff,Southampton,won,08/12/2018,1-0,1
+0,Chelsea,Man City,won,08/12/2018,2-0,1
+0,Leicester,Tottenham,lost,08/12/2018,0-2,-1
+0,Man United,Fulham,won,08/12/2018,4-1,1
+0,West Ham,Crystal Palace,won,08/12/2018,3-2,1
+0,Newcastle,Wolves,lost,09/12/2018,1-2,-1
+0,Everton,Watford,drew,10/12/2018,2-2,0
+0,Crystal Palace,Leicester,won,15/12/2018,1-0,1
+0,Fulham,West Ham,lost,15/12/2018,0-2,-1
+0,Huddersfield,Newcastle,lost,15/12/2018,0-1,-1
+0,Man City,Everton,won,15/12/2018,3-1,1
+0,Tottenham,Burnley,won,15/12/2018,1-0,1
+0,Watford,Cardiff,won,15/12/2018,3-2,1
+0,Wolves,Bournemouth,won,15/12/2018,2-0,1
+0,Brighton,Chelsea,lost,16/12/2018,1-2,-1
+3,Liverpool,Man United,won,16/12/2018,3-1,1
+0,Southampton,Arsenal,won,16/12/2018,3-2,1
+0,Wolves,Liverpool,lost,21/12/2018,0-2,-1
+0,Arsenal,Burnley,won,22/12/2018,3-1,1
+0,Bournemouth,Brighton,won,22/12/2018,2-0,1
+0,Cardiff,Man United,lost,22/12/2018,1-5,-1
+0,Chelsea,Leicester,lost,22/12/2018,0-1,-1
+0,Huddersfield,Southampton,lost,22/12/2018,1-3,-1
+0,Man City,Crystal Palace,lost,22/12/2018,2-3,-1
+0,Newcastle,Fulham,drew,22/12/2018,0-0,0
+0,West Ham,Watford,lost,22/12/2018,0-2,-1
+0,Everton,Tottenham,lost,23/12/2018,2-6,-1
+0,Brighton,Arsenal,drew,26/12/2018,1-1,0
+0,Burnley,Everton,lost,26/12/2018,1-5,-1
+0,Crystal Palace,Cardiff,drew,26/12/2018,0-0,0
+0,Fulham,Wolves,drew,26/12/2018,1-1,0
+0,Leicester,Man City,won,26/12/2018,2-1,1
+0,Liverpool,Newcastle,won,26/12/2018,4-0,1
+0,Man United,Huddersfield,won,26/12/2018,3-1,1
+0,Tottenham,Bournemouth,won,26/12/2018,5-0,1
+0,Watford,Chelsea,lost,26/12/2018,1-2,-1
+0,Southampton,West Ham,lost,27/12/2018,1-2,-1
+0,Brighton,Everton,won,29/12/2018,1-0,1
+0,Fulham,Huddersfield,won,29/12/2018,1-0,1
+0,Leicester,Cardiff,lost,29/12/2018,0-1,-1
+0,Liverpool,Arsenal,won,29/12/2018,5-1,1
+0,Tottenham,Wolves,lost,29/12/2018,1-3,-1
+0,Watford,Newcastle,drew,29/12/2018,1-1,0
+0,Burnley,West Ham,won,30/12/2018,2-0,1
+0,Crystal Palace,Chelsea,lost,30/12/2018,0-1,-1
+0,Man United,Bournemouth,won,30/12/2018,4-1,1
+0,Southampton,Man City,lost,30/12/2018,1-3,-1
+0,Arsenal,Fulham,won,01/01/2019,4-1,1
+0,Cardiff,Tottenham,lost,01/01/2019,0-3,-1
+0,Everton,Leicester,lost,01/01/2019,0-1,-1
+0,Bournemouth,Watford,drew,02/01/2019,3-3,0
+0,Chelsea,Southampton,drew,02/01/2019,0-0,0
+0,Huddersfield,Burnley,lost,02/01/2019,1-2,-1
+0,Newcastle,Man United,lost,02/01/2019,0-2,-1
+0,West Ham,Brighton,drew,02/01/2019,2-2,0
+0,Wolves,Crystal Palace,lost,02/01/2019,0-2,-1
+0,Man City,Liverpool,won,03/01/2019,2-1,1
+0,Brighton,Liverpool,lost,12/01/2019,0-1,-1
+0,Burnley,Fulham,won,12/01/2019,2-1,1
+0,Cardiff,Huddersfield,drew,12/01/2019,0-0,0
+0,Chelsea,Newcastle,won,12/01/2019,2-1,1
+0,Crystal Palace,Watford,lost,12/01/2019,1-2,-1
+0,Leicester,Southampton,lost,12/01/2019,1-2,-1
+0,West Ham,Arsenal,won,12/01/2019,1-0,1
+0,Everton,Bournemouth,won,13/01/2019,2-0,1
+0,Tottenham,Man United,lost,13/01/2019,0-1,-1
+0,Man City,Wolves,won,14/01/2019,3-0,1
+2,Arsenal,Chelsea,won,19/01/2019,2-0,1
+0,Bournemouth,West Ham,won,19/01/2019,2-0,1
+0,Liverpool,Crystal Palace,won,19/01/2019,4-3,1
+0,Man United,Brighton,won,19/01/2019,2-1,1
+0,Newcastle,Cardiff,won,19/01/2019,3-0,1
+0,Southampton,Everton,won,19/01/2019,2-1,1
+0,Watford,Burnley,drew,19/01/2019,0-0,0
+0,Wolves,Leicester,won,19/01/2019,4-3,1
+0,Fulham,Tottenham,lost,20/01/2019,1-2,-1
+0,Huddersfield,Man City,lost,20/01/2019,0-3,-1
+0,Arsenal,Cardiff,won,29/01/2019,2-1,1
+0,Fulham,Brighton,won,29/01/2019,4-2,1
+0,Huddersfield,Everton,lost,29/01/2019,0-1,-1
+0,Man United,Burnley,drew,29/01/2019,2-2,0
+0,Newcastle,Man City,won,29/01/2019,2-1,1
+0,Wolves,West Ham,won,29/01/2019,3-0,1
+0,Bournemouth,Chelsea,won,30/01/2019,4-0,1
+0,Liverpool,Leicester,drew,30/01/2019,1-1,0
+0,Southampton,Crystal Palace,drew,30/01/2019,1-1,0
+0,Tottenham,Watford,won,30/01/2019,2-1,1
+0,Brighton,Watford,drew,02/02/2019,0-0,0
+0,Burnley,Southampton,drew,02/02/2019,1-1,0
+0,Cardiff,Bournemouth,won,02/02/2019,2-0,1
+0,Chelsea,Huddersfield,won,02/02/2019,5-0,1
+0,Crystal Palace,Fulham,won,02/02/2019,2-0,1
+0,Everton,Wolves,lost,02/02/2019,1-3,-1
+0,Tottenham,Newcastle,won,02/02/2019,1-0,1
+0,Leicester,Man United,lost,03/02/2019,0-1,-1
+0,Man City,Arsenal,won,03/02/2019,3-1,1
+0,West Ham,Liverpool,drew,04/02/2019,1-1,0
+0,Everton,Man City,lost,06/02/2019,0-2,-1
+0,Brighton,Burnley,lost,09/02/2019,1-3,-1
+0,Crystal Palace,West Ham,drew,09/02/2019,1-1,0
+0,Fulham,Man United,lost,09/02/2019,0-3,-1
+0,Huddersfield,Arsenal,lost,09/02/2019,1-2,-1
+0,Liverpool,Bournemouth,won,09/02/2019,3-0,1
+0,Southampton,Cardiff,lost,09/02/2019,1-2,-1
+0,Watford,Everton,won,09/02/2019,1-0,1
+0,Man City,Chelsea,won,10/02/2019,6-0,1
+0,Tottenham,Leicester,won,10/02/2019,3-1,1
+0,Wolves,Newcastle,drew,11/02/2019,1-1,0
+0,Cardiff,Watford,lost,22/02/2019,1-5,-1
+0,West Ham,Fulham,won,22/02/2019,3-1,1
+0,Bournemouth,Wolves,drew,23/02/2019,1-1,0
+0,Burnley,Tottenham,won,23/02/2019,2-1,1
+0,Leicester,Crystal Palace,lost,23/02/2019,1-4,-1
+0,Newcastle,Huddersfield,won,23/02/2019,2-0,1
+0,Arsenal,Southampton,won,24/02/2019,2-0,1
+3,Man United,Liverpool,drew,24/02/2019,0-0,0
+0,Cardiff,Everton,lost,26/02/2019,0-3,-1
+0,Huddersfield,Wolves,won,26/02/2019,1-0,1
+0,Leicester,Brighton,won,26/02/2019,2-1,1
+0,Newcastle,Burnley,won,26/02/2019,2-0,1
+0,Arsenal,Bournemouth,won,27/02/2019,5-1,1
+3,Chelsea,Tottenham,won,27/02/2019,2-0,1
+0,Crystal Palace,Man United,lost,27/02/2019,1-3,-1
+0,Liverpool,Watford,won,27/02/2019,5-0,1
+0,Man City,West Ham,won,27/02/2019,1-0,1
+0,Southampton,Fulham,won,27/02/2019,2-0,1
+0,Bournemouth,Man City,lost,02/03/2019,0-1,-1
+0,Brighton,Huddersfield,won,02/03/2019,1-0,1
+0,Burnley,Crystal Palace,lost,02/03/2019,1-3,-1
+0,Man United,Southampton,won,02/03/2019,3-2,1
+3,Tottenham,Arsenal,drew,02/03/2019,1-1,0
+0,West Ham,Newcastle,won,02/03/2019,2-0,1
+0,Wolves,Cardiff,won,02/03/2019,2-0,1
+2,Everton,Liverpool,drew,03/03/2019,0-0,0
+1,Fulham,Chelsea,lost,03/03/2019,1-2,-1
+0,Watford,Leicester,won,03/03/2019,2-1,1
+0,Cardiff,West Ham,won,09/03/2019,2-0,1
+2,Crystal Palace,Brighton,lost,09/03/2019,1-2,-1
+0,Huddersfield,Bournemouth,lost,09/03/2019,0-2,-1
+0,Leicester,Fulham,won,09/03/2019,3-1,1
+0,Man City,Watford,won,09/03/2019,3-1,1
+0,Newcastle,Everton,won,09/03/2019,3-2,1
+0,Southampton,Tottenham,won,09/03/2019,2-1,1
+0,Arsenal,Man United,won,10/03/2019,2-0,1
+0,Chelsea,Wolves,drew,10/03/2019,1-1,0
+0,Liverpool,Burnley,won,10/03/2019,4-2,1
+0,Bournemouth,Newcastle,drew,16/03/2019,2-2,0
+0,Burnley,Leicester,lost,16/03/2019,1-2,-1
+0,West Ham,Huddersfield,won,16/03/2019,4-3,1
+0,Everton,Chelsea,won,17/03/2019,2-0,1
+0,Fulham,Liverpool,lost,17/03/2019,1-2,-1
+0,Brighton,Southampton,lost,30/03/2019,0-1,-1
+0,Burnley,Wolves,won,30/03/2019,2-0,1
+0,Crystal Palace,Huddersfield,won,30/03/2019,2-0,1
+0,Fulham,Man City,lost,30/03/2019,0-2,-1
+0,Leicester,Bournemouth,won,30/03/2019,2-0,1
+0,Man United,Watford,won,30/03/2019,2-1,1
+0,West Ham,Everton,lost,30/03/2019,0-2,-1
+0,Cardiff,Chelsea,lost,31/03/2019,1-2,-1
+0,Liverpool,Tottenham,won,31/03/2019,2-1,1
+0,Arsenal,Newcastle,won,01/04/2019,2-0,1
+0,Watford,Fulham,won,02/04/2019,4-1,1
+0,Wolves,Man United,won,02/04/2019,2-1,1
+0,Chelsea,Brighton,won,03/04/2019,3-0,1
+0,Man City,Cardiff,won,03/04/2019,2-0,1
+0,Tottenham,Crystal Palace,won,03/04/2019,2-0,1
+0,Southampton,Liverpool,lost,05/04/2019,1-3,-1
+0,Bournemouth,Burnley,lost,06/04/2019,1-3,-1
+0,Huddersfield,Leicester,lost,06/04/2019,1-4,-1
+0,Newcastle,Crystal Palace,lost,06/04/2019,0-1,-1
+0,Everton,Arsenal,won,07/04/2019,1-0,1
+1,Chelsea,West Ham,won,08/04/2019,2-0,1
+0,Leicester,Newcastle,lost,12/04/2019,0-1,-1
+0,Brighton,Bournemouth,lost,13/04/2019,0-5,-1
+0,Burnley,Cardiff,won,13/04/2019,2-0,1
+0,Fulham,Everton,won,13/04/2019,2-0,1
+0,Man United,West Ham,won,13/04/2019,2-1,1
+0,Southampton,Wolves,won,13/04/2019,3-1,1
+0,Tottenham,Huddersfield,won,13/04/2019,4-0,1
+0,Crystal Palace,Man City,lost,14/04/2019,1-3,-1
+0,Liverpool,Chelsea,won,14/04/2019,2-0,1
+0,Watford,Arsenal,lost,15/04/2019,0-1,-1
+0,Brighton,Cardiff,lost,16/04/2019,0-2,-1
+0,Bournemouth,Fulham,lost,20/04/2019,0-1,-1
+0,Huddersfield,Watford,lost,20/04/2019,1-2,-1
+0,Man City,Tottenham,won,20/04/2019,1-0,1
+0,Newcastle,Southampton,won,20/04/2019,3-1,1
+0,West Ham,Leicester,drew,20/04/2019,2-2,0
+0,Wolves,Brighton,drew,20/04/2019,0-0,0
+0,Arsenal,Crystal Palace,lost,21/04/2019,2-3,-1
+0,Cardiff,Liverpool,lost,21/04/2019,0-2,-1
+0,Everton,Man United,won,21/04/2019,4-0,1
+0,Chelsea,Burnley,drew,22/04/2019,2-2,0
+0,Tottenham,Brighton,won,23/04/2019,1-0,1
+0,Watford,Southampton,drew,23/04/2019,1-1,0
+2,Man United,Man City,lost,24/04/2019,0-2,-1
+0,Wolves,Arsenal,won,24/04/2019,3-1,1
+0,Liverpool,Huddersfield,won,26/04/2019,5-0,1
+0,Brighton,Newcastle,drew,27/04/2019,1-1,0
+0,Crystal Palace,Everton,drew,27/04/2019,0-0,0
+0,Fulham,Cardiff,won,27/04/2019,1-0,1
+2,Southampton,Bournemouth,drew,27/04/2019,3-3,0
+2,Tottenham,West Ham,lost,27/04/2019,0-1,-1
+0,Watford,Wolves,lost,27/04/2019,1-2,-1
+0,Burnley,Man City,lost,28/04/2019,0-1,-1
+0,Leicester,Arsenal,won,28/04/2019,3-0,1
+0,Man United,Chelsea,drew,28/04/2019,1-1,0
+0,Everton,Burnley,won,03/05/2019,2-0,1
+0,Bournemouth,Tottenham,won,04/05/2019,1-0,1
+0,Cardiff,Crystal Palace,lost,04/05/2019,2-3,-1
+0,Newcastle,Liverpool,lost,04/05/2019,2-3,-1
+0,West Ham,Southampton,won,04/05/2019,3-0,1
+0,Wolves,Fulham,won,04/05/2019,1-0,1
+0,Arsenal,Brighton,drew,05/05/2019,1-1,0
+0,Chelsea,Watford,won,05/05/2019,3-0,1
+0,Huddersfield,Man United,drew,05/05/2019,1-1,0
+0,Man City,Leicester,won,06/05/2019,1-0,1
+0,Brighton,Man City,lost,12/05/2019,1-4,-1
+0,Burnley,Arsenal,lost,12/05/2019,1-3,-1
+0,Crystal Palace,Bournemouth,won,12/05/2019,5-3,1
+0,Fulham,Newcastle,lost,12/05/2019,0-4,-1
+0,Leicester,Chelsea,drew,12/05/2019,0-0,0
+0,Liverpool,Wolves,won,12/05/2019,2-0,1
+0,Man United,Cardiff,lost,12/05/2019,0-2,-1
+0,Southampton,Huddersfield,drew,12/05/2019,1-1,0
+0,Tottenham,Everton,drew,12/05/2019,2-2,0
+0,Watford,West Ham,lost,12/05/2019,1-4,-1

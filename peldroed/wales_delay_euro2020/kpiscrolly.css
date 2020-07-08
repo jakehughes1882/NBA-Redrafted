@@ -1,0 +1,135 @@
+body {
+  font: 11px sans-serif;
+  margin-left: 0.0%;
+}
+
+.axis path,
+.nv-axis.nv-x .tick line {
+        display:none};
+.axis line {
+  fill: none;
+  stroke: #FFF;
+  shape-rendering: crispEdges;        
+	}		
+.dot {
+  stroke: #000;
+  stroke-width: 0;
+}
+
+		
+.placeholderText_kpi > p {height: 100vh;	
+}	
+.placeholderText_kpi {position: relative;
+				  width: 18%;
+				  top: 0;
+				  padding-left:75%;
+				  padding-right: 2%;	
+}				
+.row {
+	display:flex;
+	flex-direction: row
+
+}
+#container_kpi_to_bar_gpg {
+    position: sticky;
+    margin-left: -10%;
+    margin-right: 3%;
+    transform: scale(0.75);
+    top: 10px;    
+}
+#container_kpi_to_bar_spg {
+    position: sticky;
+    margin-left: 18%;
+    margin-right: 10%;
+    transform: scale(0.75);
+    top: 10px;    
+}
+#container_kpi_to_bar_btts {
+    position: sticky;
+    margin-left: 46%;
+    margin-right: 9%;
+    transform: scale(0.75);
+    top: 10px;    
+}
+#container_kpi_to_bar_fpg {
+    position: sticky;
+    padding-top: 500px;
+    margin-left: -10%;
+    margin-right: 6%;
+    transform: scale(0.75);
+    top: 10px;    
+}
+#container_kpi_to_bar_ypg {
+    position: sticky;
+    padding-top: 500px;
+    margin-left: 18%;
+    margin-right: 10%;
+    transform: scale(0.75);
+    top: 10px;    
+}
+#container_kpi_to_bar_rpg {
+    position: sticky;
+    padding-top: 500px;
+    margin-left: 46%;
+    margin-right: 12%;
+    transform: scale(0.75);
+    top: 10px;    
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+            .placeholderText_kpi > p {height: 100vh;    
+            }   
+            .placeholderText_kpi {position: relative;
+                              width: 20%;
+                              top: 0;
+                              padding-left:77%;   
+            }     
+} 
+
+/* IPHONE X */
+@media only screen 
+  and (min-device-width: 370px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+            .placeholderText_kpi > p {height: 100vh;    
+            }   
+            .placeholderText_kpi {position: relative;
+                              width: 20%;
+                              top: 0;
+                              padding-left:77%;   
+            }   
+} 
+
+
+@media only screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+            .placeholderText_kpi > p {height: 100vh;    
+            }   
+            .placeholderText_kpi {position: relative;
+                              width: 20%;
+                              top: 0;
+                              padding-left:77%;   
+            } 
+}
+
+@media only screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: landscape) {
+            .placeholderText_kpi > p {height: 100vh;    
+            }   
+            .placeholderText_kpi {position: relative;
+                              width: 20%;
+                              top: 0;
+                              padding-left:77%;   
+            } 
+}
+

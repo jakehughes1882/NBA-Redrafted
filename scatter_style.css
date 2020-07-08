@@ -19,7 +19,7 @@ body {
 .tooltip {		position: absolute;
 				text-align: right;
 				width: 140px;
-				height: 70px;
+				height: 85px;
 				padding: 6px;
 				font: 12px sans-serif;
 				background: white;
@@ -31,9 +31,11 @@ body {
 .placeholderText > p {height: 100vh;	
 }	
 .placeholderText {position: relative;
+				  width: 30%;
 				  top: 0;
-				  left: 50%;
-				  margin-left: 10%;	
+				  left:69%;
+				  right: 5%;
+				  margin-right: 5%;
 }				
 .row {
 	display:flex;
@@ -41,7 +43,8 @@ body {
 }
 #scatter {
     position: sticky;
-    top: 10px;   
+    width: 66%;
+    top: 10px;    
 }
 
 
